@@ -13,8 +13,5 @@ module.exports = {
         loaders: [
             {test: /\.css$/, loader: 'style-loader!css-loader'}
         ]
-    },
-    plugins: [
-        new webpack.BannerPlugin('what the fuck')
-    ]
+    }
 }
