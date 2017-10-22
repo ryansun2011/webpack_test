@@ -21,5 +21,9 @@
   "homepage": "https://github.com/ryansun2011/webpack_test#readme",
   "dependencies": {
     "webpack": "^2.2.1"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.0",
+    "style-loader": "^0.16.1"
   }
 }
